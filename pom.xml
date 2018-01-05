@@ -17,7 +17,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<releases>
 		<enabled>true</enabled>
 	</releases>
-</pluginRepository
+</pluginRepository>
   <dependencies>
       <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
    <dependency>
