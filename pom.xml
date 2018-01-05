@@ -8,11 +8,12 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <artifactId>my-app</artifactId>  
   <version>1</version>  
   <packaging>war</packaging>
-  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
-<dependency>
+  <dependencies>
+      <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
+   <dependency>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-war-plugin</artifactId>
     <version>3.2.0</version>
-</dependency>
-  
+   </dependency>
+  </dependencies>
 </project>  
